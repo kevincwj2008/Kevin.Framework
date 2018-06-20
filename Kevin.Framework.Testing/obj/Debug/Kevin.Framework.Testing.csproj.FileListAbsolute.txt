@@ -1,0 +1,11 @@
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\bin\Debug\Kevin.Framework.Testing.exe.config
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\bin\Debug\Kevin.Framework.Testing.exe
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\bin\Debug\Kevin.Framework.Testing.pdb
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\bin\Debug\Kevin.Framework.Infrastructure.dll
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\bin\Debug\Kevin.Framework.Infrastructure.pdb
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\bin\Debug\Newtonsoft.Json.xml
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\obj\Debug\Kevin.Framework.Testing.csprojResolveAssemblyReference.cache
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\obj\Debug\Kevin.Framework.Testing.csproj.CoreCompileInputs.cache
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\obj\Debug\Kevin.Framework.Testing.exe
+D:\Study\Kevin.Framework\Kevin.Framework.Testing\obj\Debug\Kevin.Framework.Testing.pdb

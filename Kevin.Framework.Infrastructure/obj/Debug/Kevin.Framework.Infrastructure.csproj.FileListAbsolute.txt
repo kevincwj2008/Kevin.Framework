@@ -1,0 +1,7 @@
+D:\Study\Kevin.Framework\Kevin.Framework.Infrastructure\bin\Debug\Kevin.Framework.Infrastructure.dll
+D:\Study\Kevin.Framework\Kevin.Framework.Infrastructure\bin\Debug\Kevin.Framework.Infrastructure.pdb
+D:\Study\Kevin.Framework\Kevin.Framework.Infrastructure\obj\Debug\Kevin.Framework.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Study\Kevin.Framework\Kevin.Framework.Infrastructure\obj\Debug\Kevin.Framework.Infrastructure.dll
+D:\Study\Kevin.Framework\Kevin.Framework.Infrastructure\obj\Debug\Kevin.Framework.Infrastructure.pdb
+D:\Study\Kevin.Framework\Kevin.Framework.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Study\Kevin.Framework\Kevin.Framework.Infrastructure\bin\Debug\Newtonsoft.Json.xml

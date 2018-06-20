@@ -1,0 +1,6 @@
+D:\Study\Kevin.Framework\Kevin.Framework.Cache\bin\Debug\Kevin.Framework.Cache.dll
+D:\Study\Kevin.Framework\Kevin.Framework.Cache\bin\Debug\Kevin.Framework.Cache.pdb
+D:\Study\Kevin.Framework\Kevin.Framework.Cache\obj\Debug\Kevin.Framework.Cache.csproj.CoreCompileInputs.cache
+D:\Study\Kevin.Framework\Kevin.Framework.Cache\obj\Debug\Kevin.Framework.Cache.dll
+D:\Study\Kevin.Framework\Kevin.Framework.Cache\obj\Debug\Kevin.Framework.Cache.pdb
+D:\Study\Kevin.Framework\Kevin.Framework.Cache\obj\Debug\Kevin.Framework.Cache.csprojResolveAssemblyReference.cache
